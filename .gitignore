@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+.lecturegpt_users/
+lecturegpt.db
+*.sqlite3
+*.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
